@@ -7,9 +7,8 @@
   <div class="sidebar-item">
     <div class="sidebar-personal-info">
       <div class="sidebar-personal-info-section">
-        <a href="/">
-          {% comment %} <img src="http://www.gravatar.com/avatar/{{ site.author.gravatar }}?s=350" title="View on Gravatar" alt="View on Gravatar" /> {% endcomment %}
-          {% comment %} <img src="/images/Jboy2017-Real-2(200x200).jpg" title="Profile Image" alt="Profile Image" /> {% endcomment %}
+        <a href="http://gravatar.com/{{ site.author.gravatar }}">
+          <img src="http://www.gravatar.com/avatar/{{ site.author.gravatar }}?s=350" title="View on Gravatar" alt="View on Gravatar" />
         </a>
       </div>
       <div class="sidebar-personal-info-section">
@@ -67,11 +66,6 @@
         {% endfor %}
       </span>
     {% endfor %}
-
-    <span>
-      {% comment %} <a class="sidebar-nav-item" href="https://www.gotquestions.org/what-is-the-gospel.html"><span class="orange-text">>></span> The Good News <span class="orange-text"><<</span></a> {% endcomment %}
-      <a class="sidebar-nav-item" href="https://www.gotquestions.org/what-is-the-gospel.html">The Good News</a>
-    </span>
 
     {% comment %} <span class="sidebar-nav-item">Currently v{{ site.version }}</span> {% endcomment %}
   </nav>
