@@ -1,0 +1,73 @@
+HTML colon (:)
+&#58;
+
+
+HTML question mark (?)
+&#63;
+
+HTML for apostrophe
+&#39;
+
+HTML for n and N with tilde
+&ntilde;
+&Ntilde;
+
+Long dash
+ —    or ---
+
+In Markdown, how do I start a line with a number without creating a list?
+1986\. What a great season.
+
+
+Footnotes
+<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>
+<sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> <small>One example of something...</small>
+
+Footnotes 2
+<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>
+<sup id="footnote-1">[1]</sup> <small>One example of something... ([back ^](#footnote-indicator-1))</small>
+
+
+
+RSS icon is from http://www.flaticon.com/free-icon/rss_179336
+
+
+My bookdepository affiliate id
+?a_aid=jflaga
+
+
+My greghowlett affiliate id
+https://greghowlett.com/?affid=5114
+
+
+HTML for images (for custom width and height)
+<img src="/images/2017/computer-science-distilled.png" width="48">
+<img src="/images/2017/computer-science-distilled.png" height="250">
+<img src="/images/2017/computer-science-distilled.png" height="200">
+<img src="/images/2017/computer-science-distilled.png" width="48" title="title" alt="title">
+<img src="/images/2017/computer-science-distilled.png" height="250" title="title" alt="title">
+
+
+File tree stucture (from https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html)
+.
+├── db.sqlite3
+├── functional_tests.py
+├── lists
+│   ├── admin.py
+│   ├── apps.py
+│   ├── __init__.py
+│   ├── migrations
+│   │   └── __init__.py
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
+├── manage.py
+└── superlists
+    ├── __init__.py
+    ├── __pycache__
+    ├── settings.py
+    ├── urls.py
+    └── wsgi.py
+
+
+

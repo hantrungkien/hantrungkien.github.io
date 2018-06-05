@@ -1,0 +1,97 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="category-list">
+    Category: 
+    {% if post %}
+      {% assign categories = post.categories %}
+    {% else %}
+      {% assign categories = page.categories %}
+    {% endif %}
+    {% for category in categories %}
+    <a href="/blog/categories/#{{category|slugize}}" class="post-tag">{{category}}</a>
+    {% endfor %}
+  </div>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  
+  <article>
+    {{ content }}
+    
+  </article>
+  
+  <!--   
+  <div class="tag-list" style="padding-top: 50px">
+    {% if page.tags %}
+    Tags:
+    {% for tag in page.tags %}
+      <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
+    {% endfor %}
+    {% endif %}
+  </div>
+  -->
+
+</div>
+
+
+<br />
+
+<hr />
+
+<div>
+  <center>
+  {% if page.previous %}
+    <span><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></span>
+  {% else %}
+    <span>&larr; Previous</span>
+  {% endif %}
+    <span> | <a href="/blog/archive/">Archive</a> | </span>
+  {% if page.next %}
+    <span><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></span>
+  {% else %}
+    <span>Next &rarr;</span>
+  {% endif %}
+  <center>
+</div>
+
+{% include christian.html %}
+
+<br />
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+{% if site.disqus_short_name %}
+<div class="comments">
+  <h2>Comments</h2>
+  <div id="disqus_thread"></div>
+  <script>
+var disqus_config = function () {
+  this.page.url = '{{ site.url }}{{ page.url }}'; // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = '{{ page.id }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() {
+  var d = document, s = d.createElement('script');
+  s.src = '//{{ site.disqus_short_name }}.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+})();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</div>
+{% endif %}

@@ -1,0 +1,36 @@
+
+table.basic-info {
+  width: 70%;
+  border: none;
+  background-color: #fff
+}
+
+table.basic-info,
+.basic-info tbody tr td,
+.basic-info tbody tr:nth-child(odd) td,
+table.resume,
+.resume tbody tr td,
+.resume tbody tr:nth-child(odd) td {
+  border: none;
+  background-color: #fff;
+}
+
+.basic-info tbody tr td:nth-child(1),
+.resume tbody tr td:nth-child(1) {
+  font-weight: bold;
+  // display: inline;
+  vertical-align: top;
+  text-align: right;
+}
+
+.resume tbody tr td:nth-child(2) {
+  border-left: 1px solid grey;
+}
+
+.resume tbody tr {  
+  border-bottom: 1px solid #eee;
+}
+
+.resume tbody tr:last-child {  
+  border-bottom: none;
+}
