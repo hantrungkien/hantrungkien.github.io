@@ -1,7 +1,7 @@
 # Site Info
-title: Jeremiah Flaga
-tagline: My thoughts and experiences on programming, life, atbp.
-description: 'My thoughts and experiences on programming, life, atbp.'
+title: Han Trung Kien
+tagline: Life is sharing. You'll never walk alone!
+description: 'Life is sharing. You'll never walk alone!'
 baseurl: ""
 url:
 logo: '/images/jboy-papyrus-blue.png'
@@ -37,7 +37,7 @@ version: 1.0.0
 # About/contact
 author:
   name: Han Trung Kien
-  description: My thoughts and experiences on programming, life, atbp.
+  description: Life is sharing. You'll never walk alone!
   gravatar: 7b0dfd72a29e38a0cf9096f01b066f08 # md5 hash of your email address
   contact:
     # linkedin:  
