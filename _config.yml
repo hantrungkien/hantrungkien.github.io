@@ -66,7 +66,6 @@ nav:
   Free Books:
     - '/free-books/'
 
-
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
@@ -79,7 +78,6 @@ hero:
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-112039340-2' # leave blank if you don't want google analytics
 disqus_short_name: 'hantrungkien' # leave blank if you don't want disqus
-
 
 # Exclude these files from your production _site
 exclude:
