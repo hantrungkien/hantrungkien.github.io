@@ -30,7 +30,7 @@ I am currently employed by [Mynd Consulting](http://www.myndconsulting.com/), a 
 
 ### Contact me
 
-[flaga.jeremiah@gmail.com](mailto:flaga.jeremiah@gmail.com)
+[kienhantrung@gmail.com](mailto:kienhantrung@gmail.com)
 
 <!--
 King Solomon said that the whole duty of man is to serve God and keep his commandments. We failed on that. But the good news is that someone else did them for us.
@@ -49,8 +49,6 @@ I would someday like to be involved in software projects whose team members like
 
 For more information about why I started this blog, please read [my first post on this blog](/2017/03/12/moving-my-blog-to-github-again/).
 
-My GitHub account: [github.com/jeremiahflaga](https://github.com/jeremiahflaga)
-
-Old GitHub accounts: [github.com/jboyflaga](https://github.com/jboyflaga), [github.com/jboyflaga2](https://github.com/jboyflaga2)
+My GitHub account: [github.com/hantrungkien](https://github.com/hantrungklien)
 
 -->
