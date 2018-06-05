@@ -232,7 +232,7 @@ published: false
       <td>GitHub:</td>
       <td>
         <p>
-          <a href="https://github.com/jeremiahflaga">github.com/jeremiahflaga</a>
+          <a href="https://github.com/hantrungkien">github.com/hantrungkien</a>
         </p>
         <p>
           <a href="https://github.com/jboyflaga2">github.com/jboyflaga2</a> <small>(old GitHub account)</small>

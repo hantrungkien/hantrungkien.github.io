@@ -281,7 +281,7 @@ published: true
       <td>GitHub:</td>
       <td>
         <p>
-          <a href="https://github.com/jeremiahflaga">github.com/jeremiahflaga</a>
+          <a href="https://github.com/hantrungkien">github.com/hantrungkien</a>
         </p>
         <small>Old GitHub:</small>
         <br />
@@ -296,7 +296,7 @@ published: true
       <td>Blog:</td>
       <td>
         <p>
-          <a href="/">jeremiahflaga.github.io</a>
+          <a href="/">hantrungkien.github.io</a>
         </p>
         <small>Old Blogs:</small>
         <br />

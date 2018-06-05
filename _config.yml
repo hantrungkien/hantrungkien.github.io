@@ -36,12 +36,12 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Jeremiah Flaga
+  name: Han Trung Kien
   description: My thoughts and experiences on programming, life, atbp.
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/jeremiahflaga
-    github:    https://github.com/jeremiahflaga
+    github:    https://github.com/hantrungkien
     facebook:  https://www.facebook.com/jboyflaga
     twitter:   https://twitter.com/jboyflaga
     google-plus: https://plus.google.com/u/0/106046848385037863937
