@@ -9,6 +9,10 @@ Tương lai của tôi chẳng có gì to tát, ngoài việc cố gắng trở 
 
 [Clean Architecture + Android Architecture Component] <small>(Coming soon...)</small>
 
+[Android Architecture Component] <small>(Coming soon...)</small>
+
+[Clean Architecture + Android Architecture Component] <small>(Coming soon...)</small>
+
 -----
 
 _Enjoy!_
