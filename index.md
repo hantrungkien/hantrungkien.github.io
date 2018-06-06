@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+Tương lai của tôi chẳng có gì to tát, ngoài việc cố gắng trở thành người đàn ông tốt hơn ngày hôm qua.
+
 -----
 
 [A better way than OO!... and TDD?](/2018/01/08/a-better-way-than-object-orientation-and-TDD) <small>(Jan 9, 2018)</small>
