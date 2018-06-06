@@ -24,18 +24,12 @@ title: Home
 
 -----
 
-
-I'm also a TDD advocate, so I collected some [quotes about TDD](/memorabilia/quotes/tdd/).
-
 _Enjoy!_
 
 
-{% include christian.html %}
-
+<!-- {% include christian.html %}
+ -->
 
 {% comment %} 
-<div class="hero">
-  <img src="{{ site.baseurl }}{{ site.hero.image }}" />
-  <p>{{ site.hero.caption }}</p>
-</div>
+
 {% endcomment %}
