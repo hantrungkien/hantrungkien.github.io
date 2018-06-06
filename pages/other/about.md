@@ -4,16 +4,23 @@ title: About
 permalink: /about/
 ---
 
-I'm Jeremiah Flaga, also known as Jboy.
+Chào anh em, tôi là Hán Trung Kiên - tác giả của blog này.
 
-I am software developer and loves programming!
+Tôi là người luôn cố gắng tìm ra sứ mệnh của mình.
+Tôi là người yêu thích Bố già, võ thuật và phát triển phần mềm, đặc biệt cho nền tảng Android.
+Tôi là người có đam mê với những câu hỏi "Tại sao?" và "Như thế nào?".
 
-I would also like to love mathematics, computer science, music, philosophy, and theology, but it seems like they don't have time for me today. Maybe someday they will!! --- a hundred years from now perhaps?? :grin:
+### Về Blog này
 
-I am currently employed by [Mynd Consulting](http://www.myndconsulting.com/), a software development company based in Davao City, Philippines. You might want to contact them for your software needs! _(Please note that the views being presented in this site, including those in my [personal blog](/blog/), are mine alone, and do not represent the views being held by my employer or my coleauges.)_
+Để đánh dấu 2 năm sự nghiệp trên con đường IT tôi đã tạo ra blog này với mục đích chia sẻ mọi thứ từ cuộc sống đến công việc và đặc biệt hơn nữa là những thú vui tao nhã của đàn ông.
 
+Nội dung các bài viết có thể không phải do tôi sáng tạo, có thể do tôi lượm nhặt hoặc tổng hợp từ nhiều nguồn tài liệu khác nhau, cốt yếu để nó làm công cụ chia sẻ cũng như giao tiếp với mọi người.
 
-### Contact me
+Thanks for reading!
+
+<img src="images/godfather.jpeg" height="200">
+
+### Liên hệ với tôi
 
 [kienhantrung@gmail.com](mailto:kienhantrung@gmail.com)
 
