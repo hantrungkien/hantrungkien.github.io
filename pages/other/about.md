@@ -18,7 +18,7 @@ Nội dung các bài viết có thể không phải do tôi sáng tạo, có th�
 
 Thanks for reading!
 
-<img src="images/godfather.jpeg" height="200">
+<img src="/images/godfather.jpeg" height="200">
 
 ### Liên hệ với tôi
 
