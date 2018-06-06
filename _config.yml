@@ -61,10 +61,10 @@ nav:
     - '/about/'
   # Github Project: 
     # - 'http://codinfox.github.io/'
-  Good Stuffs:
-    - '/good-stuffs/'
-  Free Books:
-    - '/free-books/'
+  #Good Stuffs:
+    #- '/good-stuffs/'
+  #Free Books:
+    #- '/free-books/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'

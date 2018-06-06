@@ -3,15 +3,6 @@ layout: default
 title: Home
 ---
 
-
-
-Hi, I'm Jeremiah Flaga, also known as _Jboy_. I am software developer and loves programming! 
-
-I also like writing about stuffs that I learned recently, and about some thoughts that cross my mind.
-
-Most of the things I write will not be interesting to you... so, instead of pointing you directly to my [**_blog_**](/blog/), I'm going to link from here _**a few blog posts that might interest you.**_ :smile:
-
-
 -----
 
 [A better way than OO!... and TDD?](/2018/01/08/a-better-way-than-object-orientation-and-TDD) <small>(Jan 9, 2018)</small>
