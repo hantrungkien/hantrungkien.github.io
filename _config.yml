@@ -4,7 +4,7 @@ tagline: Life is sharing. You will never walk alone!
 description: 'Life is sharing. You will never walk alone!'
 baseurl: ""
 url:
-logo: '/images/jboy-papyrus-blue.png'
+logo: '/images/logo.png'
 
 # Site configurations
 gems:
