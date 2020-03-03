@@ -7,6 +7,8 @@ Hi bro, I’m KienHT. I'm an Android developer and loves programming. This is a 
 
 -----
 
+[Why blog?](/2020/03/03/why-blog) <small>(March 3, 2020)</small>
+
 [Clean Architecture] <small>(Coming soon...)</small>
 
 [Android Architecture Component] <small>(Coming soon...)</small>
