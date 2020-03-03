@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hi, I’m KienHT. I am an Android developer and loves programming! This is a small corner in my life! :smile:
+Hi bro, I’m KienHT. I'm an Android developer and loves programming. This is a small corner in my life! _**sometime the post will be in Vietnamese**_ :smile:
 
 -----
 
@@ -19,5 +19,5 @@ _Enjoy!_
 
 
 <span class="message">
-    <i>"Tương lai của tôi chẳng có gì to tát, ngoài việc cố gắng trở thành người đàn ông tốt hơn ngày hôm qua."</i> - [Jordan Peterson](https://en.wikiquote.org/wiki/Jordan_Peterson)
+    <i>"My future's about trying to be a better man."</i> - [Terrence Howard](https://en.wikipedia.org/wiki/Terrence_Howard)
 </span>
