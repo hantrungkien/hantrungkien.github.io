@@ -18,6 +18,4 @@ Hi bro, I’m KienHT. I'm an Android developer and loves programming. This is a 
 _Enjoy!_
 
 
-<span class="message">
-    <i>"My future's about trying to be a better man."</i> - [Terrence Howard](https://en.wikipedia.org/wiki/Terrence_Howard)
-</span>
+<span class="message"><i>"My future's about trying to be a better man."</i> - [Terrence Howard](https://en.wikipedia.org/wiki/Terrence_Howard)</span>
