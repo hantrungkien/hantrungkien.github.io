@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Tương lai của tôi chẳng có gì to tát, ngoài việc cố gắng trở thành người đàn ông tốt hơn ngày hôm qua.
+Hi, I’m KienHT. I am an Android developer and loves programming! This is a small corner in my life! :smile:
 
 -----
 
@@ -18,4 +18,6 @@ Tương lai của tôi chẳng có gì to tát, ngoài việc cố gắng trở 
 _Enjoy!_
 
 
-<!-- {% include christian.html %}-->
+<span class="message">
+    <i>"Tương lai của tôi chẳng có gì to tát, ngoài việc cố gắng trở thành người đàn ông tốt hơn ngày hôm qua."</i> - [Jordan Peterson](https://en.wikiquote.org/wiki/Jordan_Peterson)
+</span>
