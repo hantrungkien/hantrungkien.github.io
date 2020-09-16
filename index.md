@@ -7,7 +7,7 @@ Hi bro, I’m KienHT. I'm an Android developer and loves programming. This is a 
 
 -----
 
-[Hilt with @ViewModelInject in Dynamic Feature.](/2020-09-17-Hilt-with-@ViewModelInject-in-Dynamic-Feature) <small>(September 17, 2020)</small>
+[Hilt with @ViewModelInject in Dynamic Feature.](/2020/09/17/Hilt-with-@ViewModelInject-in-Dynamic-Feature) <small>(September 17, 2020)</small>
 
 [Why blog?](/2020/03/03/why-blog) <small>(March 3, 2020)</small>
 
