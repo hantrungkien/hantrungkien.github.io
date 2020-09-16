@@ -3,7 +3,7 @@ layout: post
 title: 'Hilt with @ViewModelInject in Dynamic Feature.'
 categories: [Dagger]
 tags: []
-date: 2020-17-09 00:50:00 AM UTC
+date: 2020-09-17 00:50:00 AM UTC
 published: true
 ---
 
