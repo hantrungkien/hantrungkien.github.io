@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'A possible negative consequence of the idea that it''s possible for us to build superintelligent machines, if it is a false idea.'
-categories: [Miscellaneous]
+title: 'Hilt with @ViewModelInject in Dynamic Feature.'
+categories: [Dagger]
 tags: []
-date: 2019-12-07 09:50:00 PM UTC
-published: false
+date: 2020-17-09 00:50:00 AM UTC
+published: true
 ---
 
 <!-- Dec 7, 2019 09:00:00 PM Philippine Time -->
